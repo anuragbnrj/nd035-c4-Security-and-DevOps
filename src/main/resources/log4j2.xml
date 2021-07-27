@@ -16,7 +16,7 @@
         <SplunkHttp
                 name="splunkHttp"
                 url="https://localhost:8088"
-                token="bb1e2add-e627-4162-a5d7-44ba44524267"
+                token=""
                 host="localhost"
                 index="http_log_event_collector_idx"
                 type="raw"
